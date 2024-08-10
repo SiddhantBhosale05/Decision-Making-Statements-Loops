@@ -1,4 +1,4 @@
-# Decision-Making-Statements-Of-Loops
+# Decision Making Statements Of Loops
 Experiment 6
 ## AIM
 To explore the use of for and while loops.
