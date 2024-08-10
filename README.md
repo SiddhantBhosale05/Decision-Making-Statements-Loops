@@ -86,7 +86,7 @@ int main() {
    - Read the desired height of the triangle (`n`) from the user.
 
 3. **Initialization**
-   - Set a counter variable `row` to `n`.
+   - Set a counter variable `i` to `n`.
 
 4. **Outer Loop:**
    - Repeat while `i` is greater than or equal to 1.
@@ -94,7 +94,7 @@ int main() {
 
 5. **Inner Loop:**
    - Repeat while `j` is less than or equal to `i`:
-     - Print the desired character (e.g., `'*'` or `col`) depending on the desired pattern.
+     - Print the desired character (e.g., `'*'` or `j`) depending on the desired pattern.
      - Increment `j` by 1.
 
 6. **Newline:**
