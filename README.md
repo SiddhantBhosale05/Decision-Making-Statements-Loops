@@ -78,7 +78,7 @@ int main() {
 }
 ```
 ## Algorithms
-### Inverse Right Triangle
+### Inverted Simple Pyramid
 
 1. **Start**
 
@@ -111,12 +111,12 @@ int main() {
 1. Read an integer `PRN` from the user.
 
 #### Initialization:
-2. Create a variable `num` to store the extracted digit.
+2. Create a variable `reverse` to store the extracted digit.
 
 #### Reversing Loop:
 3. **While** `PRN` is greater than 0:
-   - Extract the last digit of `PRN` using `num = PRN % 10`.
-   - Print the extracted digit `num`.
+   - Extract the last digit of `PRN` using `reverse = PRN % 10`.
+   - Print the extracted digit `reverse`.
    - Remove the last digit from `PRN` using `PRN = PRN / 10`.
 
 #### Output:
