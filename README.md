@@ -89,19 +89,19 @@ int main() {
    - Set a counter variable `row` to `n`.
 
 4. **Outer Loop:**
-   - Repeat while `row` is greater than or equal to 1.
-   - Set a counter variable `col` to 1.
+   - Repeat while `i` is greater than or equal to 1.
+   - Set a counter variable `j` to 1.
 
 5. **Inner Loop:**
-   - Repeat while `col` is less than or equal to `row`:
+   - Repeat while `j` is less than or equal to `i`:
      - Print the desired character (e.g., `'*'` or `col`) depending on the desired pattern.
-     - Increment `col` by 1.
+     - Increment `j` by 1.
 
 6. **Newline:**
    - Print a newline character to move to the next row.
 
 7. **Decrement:**
-   - Decrement `row` by 1.
+   - Decrement `i` by 1.
 
 8. **End**
 
