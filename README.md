@@ -2,8 +2,6 @@
 Experiment 6
 ## AIM
 To explore the use of for and while loops.
-## Software Used
-VS Code
 
 ## Theory
 Loops in C++ are control flow structures that allow for the repeated execution of a block of code. They are automate repetitive tasks, iterating over objects and implementing algorithms efficiently.
