@@ -1,6 +1,6 @@
 //Name:Siddhant Kiran Bhosale
 //PRN:23070123038
-//Aim:Implemention of Decision Making Statements Loops to Print numbers from 1 to 20 using while loop
+//Aim:Implementation of Decision Making Statements Loops to Print numbers from 1 to 20 using while loop
 
 #include <iostream>
 using namespace std;
