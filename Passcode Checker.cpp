@@ -1,6 +1,6 @@
 //Name:Siddhant Kiran Bhosale
 //PRN:23070123038
-//Aim:Implemention of Decision Making Statements Loops to Check Passcode using While Loop
+//Aim:Implementation of Decision Making Statements Loops to Check Passcode using While Loop
 
 #include <iostream>
 using namespace std;
