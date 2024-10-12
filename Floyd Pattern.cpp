@@ -1,6 +1,6 @@
 //Name:Siddhant Kiran Bhosale
 //PRN:23070123038
-//Aim:Implemention of Decision Making Statements Loops to print Floyd Pattern
+//Aim:Implementation of Decision Making Statements Loops to print Floyd Pattern
 
 #include <iostream>
 using namespace std;
