@@ -1,6 +1,6 @@
 //Name:Siddhant Kiran Bhosale
 //PRN:23070123038
-//Aim:Implemention of Decision Making Statements Loops to Check Name using Do While Loop
+//Aim:Implementation of Decision Making Statements Loops to Check Name using Do While Loop
 
 #include <iostream>
 using namespace std;
