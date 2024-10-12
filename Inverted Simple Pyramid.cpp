@@ -1,6 +1,6 @@
 //Name:Siddhant Kiran Bhosale
 //PRN:23070123038
-//Aim:Implemention of Decision Making Statements Loops to print Inverted Simple Pyramid
+//Aim:Implementation of Decision Making Statements Loops to print Inverted Simple Pyramid
 
 #include <iostream>
 using namespace std;
