@@ -1,6 +1,6 @@
 //Name:Siddhant Kiran Bhosale
 //PRN:23070123038
-//Aim:Implemention of Decision Making Statements Loops to print Triangle Pattern
+//Aim:Implementation of Decision Making Statements Loops to print Triangle Pattern
 
 #include <iostream>
 using namespace std;
